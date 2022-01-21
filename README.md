@@ -1,5 +1,7 @@
 ﻿### checkersgame_2_players_nodeJs_threeJS
  
+ High school project
+ 
  run : node server 
 <br/>
 ![warcaby2](https://user-images.githubusercontent.com/62243649/150592407-db41bb8f-f568-496e-b571-34424912d78e.PNG)
